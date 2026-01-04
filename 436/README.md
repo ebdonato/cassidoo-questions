@@ -1,7 +1,9 @@
-# This week's question:
+# This week's question
+
 An alternating array is a list of any length in which two (not necessarily different) values are alternating (all even-indexed items are equal, and all odd-indexed items are equal). Given an array, return true if it is alternating.
 
 Examples:
+
 ```bash
 []             -> True
 [1]            -> True
