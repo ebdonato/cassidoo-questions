@@ -1,0 +1,23 @@
+{
+  "name": "cassidoo-questions",
+  "version": "1.0.0",
+  "description": "Interview question of the week of cassidoo newsletter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebdonato/cassidoo-questions.git"
+  },
+  "keywords": [
+    "interview",
+    "questions",
+    "cassidoo"
+  ],
+  "author": "Eduardo DONATO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebdonato/cassidoo-questions/issues"
+  },
+  "homepage": "https://github.com/ebdonato/cassidoo-questions#readme",
+  "devDependencies": {
+    "@types/bun": "^1.3.9"
+  }
+}
